@@ -17,7 +17,7 @@ This repository contains a proof-of-concept exploit for an **Unauthenticated Arb
 - **User Interaction Required:** ❌ No
 - **Public Exploit Available:** ✅ Yes (this repository)
 - **Patched:** ❌ Not confirmed
-- **Researcher:** [YourName or Alias]
+- **Researcher:** Yucaerin
 
 ---
 
