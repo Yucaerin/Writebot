@@ -66,7 +66,7 @@ pip install requests beautifulsoup4
 ## 📁 Structure
 
 ```
-mass_uploader.py    # Main exploit script
+writebot.py         # Main exploit script
 list.txt            # Domains (e.g. toolsit.ai)
 bq.php              # Payload disguised as JPEG
 result.txt          # Shell URLs on success
