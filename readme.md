@@ -67,7 +67,7 @@ pip install requests beautifulsoup4
 
 ```
 writebot.py         # Main exploit script
-list.txt            # Domains (e.g. toolsit.ai)
+list.txt            # Domains
 bq.php              # Payload disguised as JPEG
 result.txt          # Shell URLs on success
 ```
