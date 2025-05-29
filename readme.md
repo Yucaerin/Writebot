@@ -115,11 +115,3 @@ To mitigate:
 
 This project is for **educational and authorized testing** purposes only.  
 Unauthorized use against websites you do not own or have permission to test is illegal and unethical.
-
----
-
-## 📬 Disclosure Timeline
-
-- Vulnerability discovered: [Insert date]
-- Vendor contacted: [Insert date or N/A]
-- Public disclosure: [Insert date or planned date]
