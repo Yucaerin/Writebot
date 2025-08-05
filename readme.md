@@ -16,7 +16,7 @@ This repository contains a proof-of-concept exploit for an **Unauthenticated Arb
 - **Authentication Required:** ❌ No
 - **User Interaction Required:** ❌ No
 - **CVE:** CVE-2025-52078
-- **Public Exploit Available:** ✅ Yes (this repository)
+- **Public Exploit Available:** ✅ Yes
 - **Patched:** ❌ Not confirmed
 - **Researcher:** Yucaerin
 
