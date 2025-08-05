@@ -1,5 +1,5 @@
 
-# 🚨 Unauthenticated Arbitrary File Upload - Writebot SaaS React Template
+# 🚨 CVE-2025-52078 - Unauthenticated Arbitrary File Upload - Writebot SaaS React Template
 
 This repository contains a proof-of-concept exploit for an **Unauthenticated Arbitrary File Upload** vulnerability found in the **Writebot – AI Content Generator SaaS React Template**.
 
