@@ -11,7 +11,10 @@ This repository contains a proof-of-concept exploit for an **Unauthenticated Arb
 ## 🆔 Vulnerability Metadata
 
 - **CWE-ID:** [CWE-434: Unrestricted Upload of File with Dangerous Type](https://cwe.mitre.org/data/definitions/434.html)
-- **Severity:** Critical
+- **Severity:** Medium
+- **Version:** 3.1
+- **Vector String:** CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
+- **Score:** 6.5
 - **Exploit Type:** Remote Code Execution (via File Upload)
 - **Authentication Required:** ❌ No
 - **User Interaction Required:** ❌ No
