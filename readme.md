@@ -15,6 +15,7 @@ This repository contains a proof-of-concept exploit for an **Unauthenticated Arb
 - **Exploit Type:** Remote Code Execution (via File Upload)
 - **Authentication Required:** ❌ No
 - **User Interaction Required:** ❌ No
+- **CVE:** CVE-2025-52078
 - **Public Exploit Available:** ✅ Yes (this repository)
 - **Patched:** ❌ Not confirmed
 - **Researcher:** Yucaerin
